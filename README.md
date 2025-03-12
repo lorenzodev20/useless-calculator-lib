@@ -1,2 +1,2 @@
 # useless-calculator-lib
-sample calculator library in TypeScript
+Una calculadora simple en TypeScript

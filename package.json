@@ -1,7 +1,8 @@
 {
   "name": "useless-calculator-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sample calculator library",
+  "homepage": "https://github.com/lorenzodev20/useless-calculator-lib",
   "repository": {
     "type": "git",
     "url": "https://github.com/lorenzodev20/useless-calculator-lib"
