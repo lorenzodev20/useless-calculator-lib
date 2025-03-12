@@ -138,3 +138,6 @@ dist
 /.fleet
 /.idea
 /.vscode
+
+/.dist-browser
+/.dist-node

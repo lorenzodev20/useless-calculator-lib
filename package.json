@@ -1,6 +1,11 @@
 {
   "name": "useless-calculator-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "Sample calculator library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lorenzodev20/useless-calculator-lib"
+  },
   "main": "dist-node/index.js",
   "browser": "dist-browser/index.js",
   "scripts": {
@@ -10,11 +15,11 @@
   },
   "keywords": [
     "calculator",
-    "node"
+    "node",
+    "useless"
   ],
-  "author": "Lorenzo Rojo",
+  "author": "Lorenzo Rojo <lorenzodev2020@gmail.com>",
   "license": "MIT",
-  "description": "Sample calculator library",
   "devDependencies": {
     "typescript": "^5.8.2"
   }
