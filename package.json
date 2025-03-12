@@ -1,0 +1,21 @@
+{
+  "name": "useless-calculator-lib",
+  "version": "1.0.0",
+  "main": "dist-node/index.js",
+  "browser": "dist-browser/index.js",
+  "scripts": {
+    "build-browser": "npx tsc src/index.ts --outDir dist-browser --module ES6",
+    "build-node": "npx tsc src/index.ts --outDir dist-node",
+    "build": "npm run build-browser & npm run build-node"
+  },
+  "keywords": [
+    "calculator",
+    "node"
+  ],
+  "author": "Lorenzo Rojo",
+  "license": "MIT",
+  "description": "Sample calculator library",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
