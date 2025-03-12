@@ -1,6 +1,6 @@
 {
-  "name": "useless-calculator-lib",
-  "version": "1.0.2",
+  "name": "@echoforge/useless-calculator-lib",
+  "version": "1.0.0",
   "description": "Sample calculator library",
   "homepage": "https://github.com/lorenzodev20/useless-calculator-lib",
   "repository": {
